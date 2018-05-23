@@ -53,8 +53,8 @@ object {
   display: block;
   max-width: 100%; }
 
-img {
-  display: block; }
+/*img {
+  display: block; }*/
 
 .left,
 .alignleft,
